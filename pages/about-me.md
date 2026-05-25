@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Elijah Ballou
   role: Senior, Computer Science
-  image: /assets/images/profile.svg
+  image: assets/images/0be51b42346baf3301b3b32fa5340ea9.jpg
   linkedin: https://linkedin.com/in/elijah-ballou
   bio: |
     Hi Im Elijah Ballou
