@@ -1,6 +1,6 @@
 ---
 layout: project
-title: About My Project
+title: Flintstones AI water crashout
 permalink: /about-my-project.html
 
 subtitle: Human-Computer Interaction & Adaptive Systems
