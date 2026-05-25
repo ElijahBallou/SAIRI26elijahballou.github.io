@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Elijah Ballou                 # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
-motto: "Curious about how research can shape better tools for everyday life."
+motto: "We are what they grow beyond, that is the true burdden of all masters"
 
 quick_facts:
   - "🎓 Junior, Computer Science"
